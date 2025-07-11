@@ -1,6 +1,6 @@
 # Faltura - Controle De Faltas 🚀
 
-![Faltura Screenshot](https://i.ibb.co/gZPgYGSf/wmremove-transformed.png) <!-- TIRE UM PRINT BONITO OU FAÇA UM GIF! -->
+![Faltura Screenshot](https://i.ibb.co/gZPgYGSf/wmremove-transformed.png ) <!-- TIRE UM PRINT BONITO OU FAÇA UM GIF! -->
 
 **Live Demo:** [Clique aqui](https://faltura.vercel.app/) 
 
